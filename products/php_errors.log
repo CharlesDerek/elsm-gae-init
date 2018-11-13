@@ -1,0 +1,32 @@
+[09-Nov-2018 09:23:16 UTC] PHP Fatal error:  Call to undefined function CategoriesSectionLoop() in /home/ubuntu/workspace/products/frozen/index.php on line 50
+[09-Nov-2018 09:23:16 UTC] PHP Stack trace:
+[09-Nov-2018 09:23:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/frozen/index.php:0
+[09-Nov-2018 09:24:51 UTC] PHP Fatal error:  Call to undefined function CategoriesSectionLoop() in /home/ubuntu/workspace/products/frozen/index.php on line 50
+[09-Nov-2018 09:24:51 UTC] PHP Stack trace:
+[09-Nov-2018 09:24:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/frozen/index.php:0
+[09-Nov-2018 09:25:44 UTC] PHP Fatal error:  Call to undefined function CategoriesSectionLoop() in /home/ubuntu/workspace/products/frozen/index.php on line 51
+[09-Nov-2018 09:25:44 UTC] PHP Stack trace:
+[09-Nov-2018 09:25:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/frozen/index.php:0
+[09-Nov-2018 11:03:47 UTC] PHP Parse error:  syntax error, unexpected 'deg' (T_STRING) in /home/ubuntu/workspace/includes/functions.php on line 42
+[09-Nov-2018 11:03:47 UTC] PHP Stack trace:
+[09-Nov-2018 11:03:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/frozen/index.php:0
+[09-Nov-2018 11:04:00 UTC] PHP Parse error:  syntax error, unexpected 'deg' (T_STRING) in /home/ubuntu/workspace/includes/functions.php on line 42
+[09-Nov-2018 11:04:00 UTC] PHP Stack trace:
+[09-Nov-2018 11:04:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/frozen/index.php:0
+[09-Nov-2018 11:04:01 UTC] PHP Parse error:  syntax error, unexpected 'deg' (T_STRING) in /home/ubuntu/workspace/includes/functions.php on line 42
+[09-Nov-2018 11:04:01 UTC] PHP Stack trace:
+[09-Nov-2018 11:04:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/frozen/index.php:0
+[09-Nov-2018 11:04:01 UTC] PHP Parse error:  syntax error, unexpected 'deg' (T_STRING) in /home/ubuntu/workspace/includes/functions.php on line 42
+[09-Nov-2018 11:04:01 UTC] PHP Stack trace:
+[09-Nov-2018 11:04:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/frozen/index.php:0
+[09-Nov-2018 11:04:02 UTC] PHP Parse error:  syntax error, unexpected 'deg' (T_STRING) in /home/ubuntu/workspace/includes/functions.php on line 42
+[09-Nov-2018 11:04:02 UTC] PHP Stack trace:
+[09-Nov-2018 11:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/frozen/index.php:0
+[09-Nov-2018 11:06:50 UTC] PHP Parse error:  syntax error, unexpected 'deg' (T_STRING) in /home/ubuntu/workspace/includes/functions.php on line 43
+[09-Nov-2018 11:06:50 UTC] PHP Stack trace:
+[09-Nov-2018 11:06:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/frozen/index.php:0
+[11-Nov-2018 06:43:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/includes/functions.php on line 42
+[11-Nov-2018 06:43:13 UTC] PHP Stack trace:
+[11-Nov-2018 06:43:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/frozen/index.php:0
+[11-Nov-2018 06:43:13 UTC] PHP   2. SubCatCardsLoop() /home/ubuntu/workspace/products/frozen/index.php:59
+[11-Nov-2018 06:43:13 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/includes/functions.php:42

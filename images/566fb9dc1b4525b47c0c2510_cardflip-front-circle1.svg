@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16044) - http://www.bohemiancoding.com/sketch -->
+    <title>cardflip-front-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FE5F00" offset="0%"></stop>
+            <stop stop-color="#FE5F00" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-2" d="M120,26 C68.0841481,26 26,68.0841481 26,120 L26,120 C26,171.915852 68.0841481,214 120,214 L120,214 C171.915852,214 214,171.915852 214,120 L214,120 C214,68.0841481 171.915852,26 120,26 L120,26 Z"></path>
+    </defs>
+    <g id="Examples" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="cardflip-front-circle" sketch:type="MSArtboardGroup">
+            <mask id="mask-3" sketch:name="Clip 2" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <g id="Clip-2">
+                <use stroke="#FA611E" stroke-width="1" fill-opacity="0.05" fill="#FE5F00" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                <use stroke="none" fill-opacity="0.1" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
